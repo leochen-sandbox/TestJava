@@ -2,6 +2,7 @@
 .gradle/
 .idea
 *.mf
+*.swp
 
 local.properties
 proguard-rules.pro
